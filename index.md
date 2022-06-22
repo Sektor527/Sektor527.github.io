@@ -1,0 +1,1 @@
+Follow [the story](log.md) or get to know [Malachai](character.md) first.
