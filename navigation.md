@@ -1,3 +1,5 @@
+[gimmick:theme](readable)
+
 # Malachai's Journey
 
 [Log](log.md)
